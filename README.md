@@ -7,10 +7,8 @@
 - installed TemPy into Python 3.6
 - tried some TemPy code in Python
 - read https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution 
-
-Justification: 20%
-
-Answering the following questions:
+- created repo on GitHub
+- pushed local repo
 
 - Why this project?
     - familiar, simple code
@@ -24,7 +22,3 @@ Answering the following questions:
     - used Up for Grabs as suggested by 'How to choose...'
     - see Why above
 
-Documentation: 40%
-
-- Show your process from forking through editing/adding code all the way to the pull request.
-- Either a video screen capture with voice over or screenshots with descriptions
