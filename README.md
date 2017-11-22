@@ -17,10 +17,13 @@ Documentation
 - read 'Mastering Markdown'
 - used Up for Grabs to find project
 - found TemPy
-- cloned TemPy
 - installed TemPy into Python 3.6
 - tried some TemPy code in Python
 - read https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution 
 - created repo on GitHub
 - pushed local repo
 - will show process from forking through editing/adding code all the way to the pull request via screenshots with descriptions
+- forked Hrabal/TemPy
+    ![forked TemPy] (/images/forkedTemPy.PNG)
+- cloned fork
+    ![cloned fork] (/images/clonedFork.PNG)
