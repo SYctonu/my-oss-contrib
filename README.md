@@ -29,4 +29,9 @@ Documentation
     ![cloned fork] (/images/clonedFork.PNG)
 - copied the first sample code from their readme to test on Python 3.6
     ![sample code test] (/images/sampleCodeTest.PNG)
-    ![htmlFileTest.PNG] (/images/htmlFileTest.PNG)
+- page did not render as shown in readme
+    ![actual render] (/images/sampleRender.PNG)
+- modified code to better reflect expected output
+    ![updated code] (/images/modifiedCode.PNG)
+    ![new render] (/images/modRender.PNG)
+    
