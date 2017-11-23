@@ -27,3 +27,6 @@ Documentation
     ![forked TemPy] (/images/forkedTemPy.PNG)
 - cloned fork
     ![cloned fork] (/images/clonedFork.PNG)
+- copied the first sample code from their readme to test on Python 3.6
+    ![sample code test] (/images/sampleCodeTest.PNG)
+    ![htmlFileTest.PNG] (/images/htmlFileTest.PNG)
