@@ -1,8 +1,8 @@
 ## My OSS Contribution
 
 - I found [TemPy](https://github.com/Hrabal/TemPy) via [Up for Grabs](http://up-for-grabs.net/#/), one of the sites suggested by [Katrina Owen](https://github.com/collections/choosing-projects).
-- I chose this project for its familiar and relatively simple code and its openness to small, basic contributions.
-- It is a very active project, the latest commit was less than a day from the time of my typing here.
+- I chose this project for its familiar and relatively simple code as well as its openness to small, basic contributions.
+- It's a very active project - the latest commit was less than a day from the time of my typing here.
 - After running a sample code from the readme, I decided to contribute by editing that part of the readme such that the given code and expected output more correctly matched.
 
 Before creating and cloning the [fork](https://github.com/SYctonu/TemPy):
