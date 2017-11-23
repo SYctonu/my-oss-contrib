@@ -41,5 +41,5 @@ applied my changes,
 
 committed, and pushed to my fork on GitHub:
 ![commit](/images/commit.PNG)
-    
-Finally, I made a [pull request](https://github.com/Hrabal/TemPy/pull/32).
+
+With a readme that now has what should be a more accurate usage example, I made a [pull request](https://github.com/Hrabal/TemPy/pull/32).
